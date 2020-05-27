@@ -1,0 +1,14 @@
+D:\NIENLUAN\QuanLy\QuanLy\bin\Debug\QuanLy.exe.config
+D:\NIENLUAN\QuanLy\QuanLy\bin\Debug\QuanLy.exe
+D:\NIENLUAN\QuanLy\QuanLy\bin\Debug\QuanLy.pdb
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.csprojResolveAssemblyReference.cache
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.Properties.Resources.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.csproj.GenerateResource.Cache
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.exe
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.pdb
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmhanghoa.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmdanhmuc.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmnhanvien.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmdonhang.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmlogin.resources
+D:\NIENLUAN\QuanLy\QuanLy\obj\Debug\QuanLy.frmmain.resources
